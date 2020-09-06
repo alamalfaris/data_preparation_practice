@@ -1,4 +1,4 @@
-# preparation_data_practice
+# data_preparation_practice
 
 ### Repository ini berisi file latihan saya mengenai data preparation
 ### Ditulis menggunakan bahasa python, aplikasi jupiter notebook
